@@ -7,6 +7,10 @@ Many are from when I started on Fusion 360 and there is some hint of progression
 Original: Textron Aviation
 ![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/ec025d4a-72e9-47d7-8f88-f4056d11033f)
 
+## P1000 Ratte
+![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/546b8705-89fd-496a-b8e7-222d46a29985)
+
+
 ## AN225 - Mriya
 Original: Antonov 
 ![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/35bf7d23-e009-4b1d-9a0d-05bff906fd41)
