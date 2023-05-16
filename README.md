@@ -10,6 +10,10 @@ Original: Textron Aviation
 ## P1000 Ratte
 ![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/546b8705-89fd-496a-b8e7-222d46a29985)
 
+## TF2 turrets
+Original: Valve Corporation - Team Fortress 2
+![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/85d557e7-6a6b-4535-9633-52746bfd3466)
+
 
 ## AN225 - Mriya
 Original: Antonov 
