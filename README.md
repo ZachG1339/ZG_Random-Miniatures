@@ -3,6 +3,4 @@ This is a project dump for miniatures I'm making or have made using CAD. They ar
 
 Many are from when I started on Fusion 360 and there is some hint of progression between them. Below are screenshots in order:
 
-![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/6ad8fa49-61fe-4126-9a50-ca88af6fcf4f)
-
-
+![image](https://github.com/ZachG1339/ZG_Random-Miniatures/assets/121523537/35bf7d23-e009-4b1d-9a0d-05bff906fd41)
